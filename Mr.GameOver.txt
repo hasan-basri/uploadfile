@@ -1,0 +1,15 @@
+﻿
+Singkat nya gini gan
+
+$ pkg install python2
+$ pkg install git
+$ git clone https://github.com/MrGameOver16/Mr.GameOver.git
+$ cd Mr.GameOver
+$ pip2 install requests
+$ pip2 install mechanize
+$ python2 hekerpesbuk.py
+
+
+
+
+by.aadityaa(Mr.GameOver)
